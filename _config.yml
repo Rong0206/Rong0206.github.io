@@ -19,7 +19,7 @@ sidebar-avatar: /img/portrait.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     超人爆底裤
+zhihu_username:     liujr27
 github_username:    Rong0206
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -97,6 +97,7 @@ service-worker: true
 
 
 # Friends
+'''
 friends: [
     {
         title: "WY",
@@ -112,3 +113,4 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+'''
