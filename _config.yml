@@ -1,7 +1,7 @@
 # Site settings
 title: CookBoy Blog
 SEOTitle: 煮食男孩的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-smile.jpg
 email: liujr0206@outlook.com
 description: "超人爆底裤"
 keyword: "Blog, CookBoy, study, DS, Python"
@@ -76,7 +76,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-139606452-1'            # Format: UA-xxxxxx-xx
