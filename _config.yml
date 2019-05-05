@@ -11,19 +11,19 @@ github_repo: "https://github.com/Rong0206/Rong0206.github.io" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "蛰伏"
+sidebar-about-description: "蛰伏,Cook是动词。"
 sidebar-avatar: /img/portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:
 zhihu_username:     liujr27
 github_username:    Rong0206
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#facebook_username:
+#jianshu_username:
+#twitter_username:
 
 
 
@@ -39,7 +39,9 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+# Deprecation: The 'gems' configuration option has been renamed to 'plugins'.
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
 
 
 
@@ -57,16 +59,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: liujr
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 98a1f28bbd496f56703b                            #生成的clientID
+  clientSecret: 944f95d6106b8c7678a3d5aef3535c1a63c61eea    #生成的clientSecret
+  repo: rong0206.github.io    #仓库名称
+  owner: rong0206    #github用户名
+  admin: rong0206
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -77,8 +79,8 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-139606452-1'            # Format: UA-xxxxxx-xx
+ga_domain:   auto                        # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
