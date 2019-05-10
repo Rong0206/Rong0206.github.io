@@ -1,13 +1,15 @@
 ---
 layout:     post                    
-title:      Naked Statistics               
-subtitle:   Chapter 1 - 统计学的意义
+title:      "Naked Statistics"               
+subtitle:   "Chapter 1 - 统计学的意义"
 date:       2019-05-09             
-author:     CookBoy                  
-header-img: img/post-bg-2015.jpg 
+author:     "CookBoy"                  
+header-img: img/post-bg-miui6.jpg 
 catalog: true                       
-tags:        统计学
+tags:
+    - 统计学
 ---
+
 #统计学的意义
 
 >基尼系数: 用于衡量一个国家的财富(或收入)分配的公平程度，最小为0(分配最公平)，最大为1(分配最不公平)。
