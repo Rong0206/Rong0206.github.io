@@ -6,8 +6,7 @@ author:     CookBoy
 header-img: img/lijiang_1.jpg 
 catalog:  ture                      
 tags:        生活
-layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+layout:     post
 
 ---
 
