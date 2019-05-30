@@ -1,5 +1,4 @@
 ---
-layout:     post                    
 title:      丽江放空：我如何沦落到这一步（1）               
 subtitle:   what's wrong about me?
 date:       2019-05-29             
@@ -7,7 +6,11 @@ author:     CookBoy
 header-img: img/lijiang_1.jpg 
 catalog:  ture                      
 tags:        生活
+layout:     keynote
+iframe:     "http://huangxuan.me/js-module-7day/"
+
 ---
+
 > 序：趁着来丽江这几天，因为第二次来，所以只想窝在客栈里和出去随便逛逛，使得我真正地有空去思考一些平时不会认真思考分析的问题。
 
 - 为了方便自己梳理，以下将用线性叙述的方法对这两年做一个归纳总结
