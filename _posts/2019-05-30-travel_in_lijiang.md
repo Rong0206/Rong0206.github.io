@@ -2,7 +2,7 @@
 layout:     post                    
 title:      丽江放空：我如何沦落到这一步（1）               
 subtitle:   what's wrong about me?
-date:       2019-05-029             
+date:       2019-05-29             
 author:     CookBoy                  
 header-img: img/lijiang_1.jpg 
 catalog:  ture                      
