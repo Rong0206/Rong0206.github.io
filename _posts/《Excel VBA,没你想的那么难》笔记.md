@@ -1,9 +1,9 @@
 ---
 layout:     post                    
-title:      《Excel VBA,没你想的那么难》笔记            
-subtitle:   Vba
+title:      "《Excel VBA,没你想的那么难》笔记"        
+subtitle:   "Vba"
 date:       2020-02-01             
-author:     CookBoy                  
+author:     "CookBoy"                
 header-img: img/post-bg-debug.png
 catalog: true                       
 tags:        学习
