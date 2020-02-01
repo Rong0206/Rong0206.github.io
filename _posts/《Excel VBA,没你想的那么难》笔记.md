@@ -1,3 +1,13 @@
+---
+layout:     post                    
+title:      《Excel VBA,没你想的那么难》笔记            
+subtitle:   Vba
+date:       2020-02-01             
+author:     CookBoy                  
+header-img: img/post-bg-debug.png
+catalog: true                       
+tags:        学习
+---
 # Excel VBA,没你想的那么难
 ### 第一章 概述
 介绍了VBA的作用：减少无脑地重复性Excel操作
